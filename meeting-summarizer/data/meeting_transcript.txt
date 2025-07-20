@@ -1,0 +1,24 @@
+Meeting Transcript: Project Alpha Deadline Sync
+Duration: 4 minutes
+Attendees: Alex (PM), Jamie (Design), Taylor (Dev), Morgan (QA)
+
+Alex (PM):
+"Thanks for joining, everyone. Let’s keep this quick—we’re here to confirm the status of Project Alpha’s MVP before the Friday deadline. Jamie, how’s the design handoff?"
+
+Jamie (Design):
+"All screens are finalized and uploaded to Figma. I’ve tagged Taylor in the specs—just waiting on the animation assets, which I’ll send by EOD today."
+
+Taylor (Dev):
+"Got it. I’ve integrated 80% of the UI. The API delays might push backend work to Thursday, but we’ll still hit the deadline if QA can start testing Wednesday afternoon."
+
+Morgan (QA):
+"That’s tight, but doable. Taylor, can you flag high-risk areas for me to prioritize? Also, Alex—are we still aiming for a Friday 3 PM deploy?"
+
+Alex (PM):
+"Yes, no changes there. Morgan, I’ll send you the test cases by tomorrow. Jamie, thanks for the quick turnaround. Taylor, keep us posted on the API. Any blockers?"
+
+Taylor (Dev):
+"None yet. I’ll Slack updates by EOD."
+
+Alex (PM):
+"Perfect. Let’s reconvene Thursday if anything changes. Meeting adjourned!"
